@@ -1,0 +1,99 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.head {
+    width: 100%;
+    color: aquamarine;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+
+h1, h2, h3, p, th, td, li{
+    font-family: Arial;
+    color: white;
+}
+
+th {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(51, 51, 51);
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/18134.png);
+    background-size: cover;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+a:visited {
+    color: rgb(0, 170, 170);
+}
+
+.Nvg {
+    background-color: black;
+    text-align: center;
+    font-size: x-large;
+    text-shadow: white;
+    width: 100%;
+}
+
+.Int-yap {
+    text-align: center;
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prof-yap {
+    text-align: left;
+    max-width: 50%;
+}
+
+.gimma-img {
+    float: left;
+}
+
+
+.prof-left {
+    width: 47%;
+    float: left;
+    padding-left: 3%;
+}
+
+.prof-right {
+    width: 50%;
+    float: right;
+}
+
+.tabel-stats{
+    margin: auto;
+    width: 90%;
+    background-color: rgba(70, 70, 70, 0.7);
+}
+
+.FAQL {
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
