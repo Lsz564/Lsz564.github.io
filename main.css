@@ -35,8 +35,12 @@ body {
     background-size: cover;
 }
 
+aside {
+    margin-right: 10%;
+}
+
 a {
-    color: aliceblue;
+    color: black;
 }
 
 a:active {
